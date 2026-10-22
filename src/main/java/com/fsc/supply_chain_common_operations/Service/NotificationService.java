@@ -2,7 +2,6 @@ package com.fsc.supply_chain_common_operations.Service;
 
 import com.fsc.supply_chain_common_operations.Models.Notification;
 import com.fsc.supply_chain_common_operations.enums.NotificationStatus;
-import com.fsc.supply_chain_common_operations.models.Notification;
 import com.fsc.supply_chain_common_operations.repositories.NotificationRepo;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
